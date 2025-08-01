@@ -179,7 +179,7 @@ const DebuggingExample = () => {
         <Space direction="vertical" size="large" style={{ width: "100%" }}>
           {/* Interactive Debug Section */}
           <div className="bg-blue-50 p-4 rounded-lg border border-blue-200">
-            <Title level={4}>🔧 Interactive Debugging NEW COMMIT</Title>
+            <Title level={4}>🔧 Interactive Debugging (New Build)</Title>
             <Space>
               <Button
                 type="primary"
