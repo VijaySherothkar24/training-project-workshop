@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+:where(.css-dev-only-do-not-override-1vjf2v5).ant-layout-header{
+  background: #fff !important;
+}
